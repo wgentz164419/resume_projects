@@ -47,5 +47,5 @@ The program will ask to enter a menu selection which result in the following:
 * Python 3.7
 
 #### Author
-* Walker Gentz - Inintal Work
+* Walker Gentz - Initial Work
  
