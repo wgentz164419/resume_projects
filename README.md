@@ -49,3 +49,26 @@ The program will ask to enter a menu selection which result in the following:
 #### Author
 * Walker Gentz - Initial Work
  
+## Trackr Python Application
+#### Needs
+You will need the following installed on your machine:
+ * Python 3.7
+ * 'tkinter' package
+ * Python IDE
+ * "StrikeZoneSAU.png" image within this repository
+
+#### Installing
+ 1. Clone the repository to your machine: git clone https://github.com/wgentz164419/resume_projects/blob/426187c018af77c6f0445b1aabd29f55928f7874/TrackrV3.py
+ 2. Open project in your IDE
+ 3. Run the file in your IDE, and the Trackr GUI should open
+
+#### Results
+After running the file in your IDE, the Trackr GUI should appear. This GUI will allow you to enter information related to the game and pitch-by-pitch data. 
+To use, right click on the zone to show pitch location and then enter pitch data into each input, and finally store pitch data. At the end of the game, close the GUI and a CSV file will be located in the file's folder with the date and the pitch information.
+
+#### Built With
+* Python 3.7
+* Visual Studio Code
+
+#### Author
+* Walker Gentz - Initial Work
